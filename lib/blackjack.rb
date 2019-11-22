@@ -40,7 +40,7 @@ def hit?(card_total)
     invalid_command
   end
 end 
-prompt_user
+card_total
 end 
 
 
